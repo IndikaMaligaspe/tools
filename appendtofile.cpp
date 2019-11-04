@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include <string.h>
-//#include <boost/filesystem.hpp>
 #include <sys/types.h>
 #include <dirent.h>
 
